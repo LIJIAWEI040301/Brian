@@ -1,2 +1,1 @@
-# Brian
-Boosted Rapid In-silico AutoDock Navigator
+# Brian-A Boosted Rapid In-silico AutoDock Navigator
