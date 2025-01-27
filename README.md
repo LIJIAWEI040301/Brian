@@ -1,5 +1,5 @@
-# Brian-Boosted Rapid In-silico AutoDock Navigator
-## A GUI for Parallel Virtual Screening Based on AutoDock Vina
+# A GUI for Parallel Virtual Screening Based on AutoDock Vina
+## Brian-Boosted Rapid In-silico AutoDock Navigator
 
 ### Usage Instructions
 
